@@ -23,6 +23,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay gif" src=".github/rocket-pay.gif">
 </p>
 
+🔗[Clique aqui para acessar o projeto](https://rocket-pay-henna.vercel.app/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
